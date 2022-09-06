@@ -1,4 +1,8 @@
-- 👋 Hi, I’m @Kamilanurun
+- ![Hello World](https://tenor.com/view/hello-there-private-from-penguins-of-madagascar-hi-wave-hey-there-gif-16043627)
+
+
+
+- :wave: Hi, I’m @Kamilanurun
 - 🌃 I’m interested in geothermal, environmental geophysics...
 - 🌱 I’m currently learning .Gadjah Mada University..
 - ☘️ my hobby is reading and deeptalk...
