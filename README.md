@@ -1,8 +1,13 @@
-- ![Hello World](https://tenor.com/view/hello-there-private-from-penguins-of-madagascar-hi-wave-hey-there-gif-16043627)
+
+
+- <p align="center">
+                              <h2>Hello World! I'm Kamila <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
 
 
-- :wave: Hi, I’m @Kamilanurun
+
+  
+  
 - 🌃 I’m interested in geothermal, environmental geophysics...
 - 🌱 I’m currently learning .Gadjah Mada University..
 - ☘️ my hobby is reading and deeptalk...
