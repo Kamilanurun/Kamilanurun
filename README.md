@@ -13,7 +13,7 @@
 - 🌃 *I’m interested in geothermal, environmental geophysics, and research*
 - 🏫 *I’m currently learning at Gadjah Mada University*
 - 🌵 *My hobby is reading and deeptalk*
-- 📍 *i'm a part of Himpunan Mahasiswa Geofisika Universitas Gadjah Mada*
+- 📍  *I'm a part of Himpunan Mahasiswa Geofisika Universitas Gadjah Mada*
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
