@@ -9,7 +9,7 @@
   
   
 - 🌃 I’m interested in geothermal, environmental geophysics...
-- 🌱 I’m currently learning .Gadjah Mada University..
+- 🌱 I’m currently learning at Gadjah Mada University..
 - ☘️ my hobby is reading and deeptalk...
 - 📫 i'm a part of Himpunan Mahasiswa Geofisika Universitas Gadjah Mada..
 
