@@ -1,4 +1,4 @@
-
+![Hello](https://myoctocat.com/assets/images/base-octocat.svg)
 
 - <p align="center">
                               <h2>Hello World! I'm Kamila <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
